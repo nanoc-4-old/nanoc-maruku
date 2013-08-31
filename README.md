@@ -16,4 +16,4 @@ This provides a [Maruku](http://maruku.rubyforge.org/) filter for [nanoc](http:/
 filter :maruku
 ```
 
-This filter takes no options.
+Parameters passed to this filter will be passed on to Maruku.
