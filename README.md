@@ -4,7 +4,7 @@
 
 # nanoc-maruku
 
-This provides an [Maruku](http://www.methods.co.nz/maruku/) filter for [nanoc](http://nanoc.ws).
+This provides a [Maruku](http://maruku.rubyforge.org/) filter for [nanoc](http://nanoc.ws).
 
 ## Installation
 
